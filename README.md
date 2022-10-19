@@ -2,7 +2,7 @@
 <h3 align="center">🥑 DevOps Enthusiast 🥑</h3>
 <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg">
 
-- 🌱 I’m currently learning **Linux**
+- 🌱 I’m currently learning **DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
